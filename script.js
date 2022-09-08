@@ -29,7 +29,7 @@ function love(array) {
 
 function calculate() {
     var inputs = document.getElementsByName('names'),
-            loves = ["l", "o", "v", "e", "s"],
+            
             countArray = [],
             count,
             names,
