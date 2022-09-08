@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
 .calc {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	clear: both;
+	font-family: 'Ms Madi', cursive;
 	 }
 
 #result {
@@ -11,6 +13,7 @@
 	color: rgb(202, 58, 58);
   font-size: 85px;
   text-shadow: 1px 1px 1px #646161;
-	height: 150px;}
-
+	height: 150px;
+	font-family: 'Ms Madi', cursive;
+}
 	
